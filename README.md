@@ -36,7 +36,7 @@ ScheduleToImage это небольшая клиентская библиоте�
 ```javascript
 var script = document.createElement("script");
 script.type = "text/javascript";
-script.src = "https://rawgit.com/ezekeli/eway/master/demo.js";
+script.src = "https://rawgit.com/ezekeli/schedule-to-image/master/javascript/demo.js";
 document.querySelector("head").appendChild(script);
 ```
 
