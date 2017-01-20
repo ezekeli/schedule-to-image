@@ -35,6 +35,6 @@ demo.createButton = () => {
 }
 
 demo.run = () => {
-    demo.loadScript("https://rawgit.com/ezekeli/eway/master/javascript/html2canvas.js");
-    demo.loadScript("https://rawgit.com/ezekeli/eway/master/javascript/schedule-to-image.js", demo.createButton());
+    demo.loadScript("https://rawgit.com/ezekeli/schedule-to-image/master/javascript/html2canvas.js");
+    demo.loadScript("https://rawgit.com/ezekeli/schedule-to-image/master/javascript/schedule-to-image.js", demo.createButton());
 }
